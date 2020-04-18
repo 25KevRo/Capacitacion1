@@ -1,3 +1,7 @@
+#Cargando paquetes
+install.packages("tidyverse")
+library(tidyverse)
+
 library(stringi)
 library(ggplot2)
 library(dplyr)
